@@ -16,6 +16,7 @@ sub-commands are callable in the Blade CLI environment:
 - *init*: Initializes a new Liferay Workspace.
 - *install*: Installs a bundle into Liferay's module framework.
 - *migrateTheme*: Migrates a Plugins SDK theme to a new workspace theme project.
+- *migrateWar*: Migrates a Plugins SDK plugin to a new workspace WAR project.
 - *open*: Opens or imports a file or project in Liferay IDE.
 - *samples*: Generates a sample project.
 - *server*: Starts or stops server defined by your Liferay project.
@@ -23,5 +24,5 @@ sub-commands are callable in the Blade CLI environment:
 - *update*: Updates Blade CLI to latest version.
 - *version*: Displays version information about Blade CLI.
 
-In this set of tutorials, you'll learn how to use these commands and what
-templates are provided for you to create Liferay modules.
+In this set of tutorials, you'll learn how to use these commands to create and
+test Liferay modules.
